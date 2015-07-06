@@ -66,5 +66,5 @@ int main(){
 
 	partition_wrapper(theList, 5);
 
-	system("pause");
+	system("pause"); //break point here to check list
 }
